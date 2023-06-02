@@ -663,6 +663,7 @@ html[dir=ltr] main::before {
 
 .services-sec {
   background-color: #fff;
+  overflow: hidden;
 }
 
 .services-cont {
